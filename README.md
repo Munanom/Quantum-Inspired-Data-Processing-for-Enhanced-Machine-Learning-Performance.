@@ -1,4 +1,4 @@
-# Quantum-Machine-Learning
+# Quantum-Inspired Data Processing for Enhanced Machine Learning Performance.
 Research codebase using MNIST that demonstrates how classical machine learning models can compete with quantum models through a novel hybrid quantum-classical feature engineering approach
 
 1. **Data Preparation**
